@@ -1,0 +1,212 @@
+[
+  {
+    "categoryName": "资讯聚合",
+    "websites": [
+      {
+        "name": "AnyKnew",
+        "link": "https://www.anyknew.com/",
+        "description": "热搜聚合"
+      },
+      {
+        "name": "今日热榜",
+        "link": "https://rebang.today/",
+        "description": "热搜聚合"
+      },
+      {
+        "name": "金十数据",
+        "link": "https://www.jin10.com/",
+        "description": "财经资讯"
+      },
+      {
+        "name": "金色财经快讯",
+        "link": "https://www.jinse.com/lives",
+        "description": "区块链最新消息"
+      },
+      {
+        "name": "不死鸟",
+        "link": "https://iui.su/",
+        "description": "分享为王"
+      },
+      {
+        "name": "Good News",
+        "link": "https://good.news/",
+        "description": "时事新闻"
+      }
+    ]
+  },
+  {
+    "categoryName": "社区",
+    "websites": [
+      {
+        "name": "V2EX",
+        "link": "https://www.v2ex.com/",
+        "description": "V2EX 是一个关于分享和探索的地方"
+      },
+      {
+        "name": "思否",
+        "link": "https://segmentfault.com/",
+        "description": "我们为了消除开发领域的知识不平等，建立了开放式协作的问答社区。探寻以开放、对等、共享的理念，凝聚开发者智慧，共同推动技术进步。"
+      }
+    ]
+  },
+  {
+    "categoryName": "个人博客",
+    "websites": [
+      {
+        "name": "中文独立博客列表",
+        "link": "https://github.com/timqian/chinese-independent-blogs",
+        "description": ""
+      },
+      {
+        "name": "阮一峰",
+        "link": "http://www.ruanyifeng.com/blog/",
+        "description": "70后，2008年获得上海财经大学世界经济博士学位。上海金融学院国际经贸学院任教。译作有《ECMAScript 6入门》、《软件随想录》、《黑客与画家》、《异常流行幻象与群众疯狂》、《下一个大泡泡》等。"
+      },
+      {
+        "name": "陈皓",
+        "link": "https://coolshell.cn/",
+        "description": "曾于Amazon中国任研发经理，负责电子商务全球化业务（全球开店）和全球库存预测系统的研发。曾在阿里巴巴北京研发中心、商家业务部曾任资深专家一职，负责电商云平台、开放平台，云监控和电商多媒体平台。曾在阿里巴巴核心系统专家组从事阿里核心系统和阿里云ECS相关的虚拟化平台的开发工作。现在创业中，MegaEase创始人，致力于为企业的高并发高可用架构提供一整套的技术解决方案和产品。"
+      },
+      {
+        "name": "池建强",
+        "link": "https://macshuo.com/",
+        "description": "生于七十年代。98年毕业后我加入了一家直流电源公司，一年后加入洪恩软件，开启编程之路。2012年开始规模化写作，出版了两本书《MacTalk·人生元编程》和《MacTak·跨越边界》。2015年，加入锤子科技。2017年初，以合伙人的身份加盟了极客邦科技，做产品极客时间。2022年初，创办「墨问西东」公司，方向是内容+工具产品。"
+      },
+      {
+        "name": "魏武挥",
+        "link": "http://weiwuhui.com/",
+        "description": "上海交通大学媒体与传播学院m-lab主任，天奇创投基金管理合伙人。毕业于香港浸会大学传理学院（2006）及安徽财经大学（1995）。作为一名大学教师，魏武挥先生主要围绕互联网与新媒体的研究与教学。曾在广州中山大学做访问学者，兼任暨南大学南都讲座教授、安徽财经大学新闻与传播专业硕士研究生实践导师。2009年，受聘于CCTV广告经营管理中心担当顾问。2014年，受聘于最高人民法院担当传播顾问。"
+      },
+      {
+        "name": "代码家",
+        "link": "https://daimajia.com/",
+        "description": "创办了掘金（2014-2016），在峰瑞资本深造过（2016-2019），目前在真格基金（2019-至今）。"
+      },
+      {
+        "name": "Phodal",
+        "link": "https://www.phodal.com/blog/",
+        "description": "1991年出生于闽南，毕业于西安文理学院(电子信息工程专业)，目前作为一个高级咨询师服务于 ThoughtWorks（深圳）。"
+      },
+      {
+        "name": "Martin Fowler",
+        "link": "https://martinfowler.com/",
+        "description": ""
+      },
+      {
+        "name": "Vitalik Buterin",
+        "link": "https://vitalik.eth.limo/",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "AI助手",
+    "websites": [
+      {
+        "name": "周报生成器",
+        "link": "https://weeklyreport.avemaria.fun/",
+        "description": "简单描述工作内容，帮你生成完整周报"
+      },
+      {
+        "name": "Email Generator",
+        "link": "https://email-helper.vercel.app/",
+        "description": "只需要几秒就可生成商务电子邮件"
+      },
+      {
+        "name": "Teach Anything",
+        "link": "https://www.teach-anything.com/",
+        "description": "几秒钟内教你任何东西。"
+      },
+      {
+        "name": "Read Pilot",
+        "link": "https://readpilot.vercel.app/",
+        "description": "Read Pilot分析在线文章并为您生成问答卡。"
+      }
+    ]
+  },
+  {
+    "categoryName": "工具",
+    "websites": [
+      {
+        "name": "IT-TOOLS",
+        "link": "https://it-tools.tech/",
+        "description": "Handy tools for developers"
+      },
+      {
+        "name": "帮小忙-QQ浏览器",
+        "link": "https://tool.browser.qq.com/",
+        "description": "功能一应俱全、简单好用的线上工具宝"
+      },
+      {
+        "name": "小白工具箱",
+        "link": "https://www.ooopn.com/",
+        "description": ""
+      },
+      {
+        "name": "Poet",
+        "link": "https://poet.so/",
+        "description": "社交应用截图美化"
+      },
+      {
+        "name": "Carbon",
+        "link": "https://carbon.now.sh/",
+        "description": "代码截图美化"
+      }
+    ]
+  },
+  {
+    "categoryName": "网盘资源",
+    "websites": [
+      {
+        "name": "YaPan",
+        "link": "https://pan.ccof.cc/",
+        "description": "阿里云盘搜索"
+      },
+      {
+        "name": "猫狸云搜索",
+        "link": "https://www.maoliyun.com/",
+        "description": "阿里云盘搜索"
+      }
+    ]
+  },
+  {
+    "categoryName": "图表资源",
+    "websites": [
+      {
+        "name": "ProcessOn",
+        "link": "https://www.processon.com/",
+        "description": "免费在线流程图思维导图，专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制。"
+      },
+      {
+        "name": "Sketchviz",
+        "link": "https://sketchviz.com/",
+        "description": "手绘风格流程图"
+      },
+      {
+        "name": "WordArt",
+        "link": "https://wordart.com/",
+        "description": "词云图"
+      }
+    ]
+  },
+  {
+    "categoryName": "图片资源",
+    "websites": [
+      {
+        "name": "阿里巴巴矢量图标库",
+        "link": "https://www.iconfont.cn/",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "影视资源",
+    "websites": [
+      {
+        "name": "低端影视",
+        "link": "https://ddys.art/",
+        "description": ""
+      }
+    ]
+  }
+]
