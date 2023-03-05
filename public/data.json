@@ -13,6 +13,11 @@
         "description": "热搜聚合"
       },
       {
+        "name": "IT之家",
+        "link": "https://www.ithome.com/",
+        "description": "快速播报科技行业新闻头条快讯和手机数码产品评测"
+      },
+      {
         "name": "金十数据",
         "link": "https://www.jin10.com/",
         "description": "财经资讯"
@@ -43,9 +48,39 @@
         "description": "V2EX 是一个关于分享和探索的地方"
       },
       {
-        "name": "思否",
-        "link": "https://segmentfault.com/",
-        "description": "我们为了消除开发领域的知识不平等，建立了开放式协作的问答社区。探寻以开放、对等、共享的理念，凝聚开发者智慧，共同推动技术进步。"
+        "name": "Hacker News",
+        "link": "https://news.ycombinator.com/",
+        "description": "新闻提交社区"
+      },
+      {
+        "name": "过早客",
+        "link": "https://www.guozaoke.com/",
+        "description": "源自武汉的高端社交网络，这里有关于创业、创意、IT、金融等最热话题的交流，也有招聘问答、活动交友等最新资讯的发布"
+      },
+      {
+        "name": "0xFFFF",
+        "link": "https://0xffff.one/",
+        "description": "搬砖技术社区 — 专注、沉淀、交流"
+      },
+      {
+        "name": "DEV Community",
+        "link": "https://dev.to/",
+        "description": "开发者社区"
+      },
+      {
+        "name": "茶饭 ",
+        "link": "https://cha.fan/",
+        "description": "有深度的社交问答网站"
+      },
+      {
+        "name": "天涯论坛",
+        "link": "https://bbs.tianya.cn/",
+        "description": "全球华人网上家园"
+      },
+      {
+        "name": "一亩三分地",
+        "link": "https://www.1point3acres.com/bbs/",
+        "description": "留学生活论坛"
       }
     ]
   },
@@ -61,6 +96,11 @@
         "name": "阮一峰",
         "link": "http://www.ruanyifeng.com/blog/",
         "description": "70后，2008年获得上海财经大学世界经济博士学位。上海金融学院国际经贸学院任教。译作有《ECMAScript 6入门》、《软件随想录》、《黑客与画家》、《异常流行幻象与群众疯狂》、《下一个大泡泡》等。"
+      },
+      {
+        "name": "郝培强",
+        "link": "https://codechina.org/",
+        "description": "1979年生人，自由职业（自媒体），资深（也就是老的意思）开发者。"
       },
       {
         "name": "陈皓",
@@ -90,18 +130,33 @@
       {
         "name": "Martin Fowler",
         "link": "https://martinfowler.com/",
-        "description": ""
+        "description": "80年代初期开始从事软件工作，已写就五本软件开发方面的书籍。2000年3月，他成为ThoughtWorks的首席科学家。他还是敏捷联盟的成员，于2001年，同其他16名合著者一起协助创作了“敏捷软件开发宣言”。他还使控制反转(Inversion of Control)之一的“依赖注入模式(Dependency Injection)”一词得到普及。"
       },
       {
         "name": "Vitalik Buterin",
         "link": "https://vitalik.eth.limo/",
-        "description": ""
+        "description": "2011年与Mihai Alisie、Matthew N. Wright、Vladimir Marchenko、Vicente S共同创立了《比特币杂志》。2013年发表了《以太坊白皮书》。2014年与加文·伍德共同推出了以太坊。"
       }
     ]
   },
   {
     "categoryName": "AI助手",
     "websites": [
+      {
+        "name": "gpt2go",
+        "link": "https://gpt2go.netlify.app/",
+        "description": "一个基于gpt-3.5-turbo模型API自建的ChatGPT网站，支持代码渲染，导出会话，高级参数配置等功能。"
+      },
+      {
+        "name": "freegpt",
+        "link": "https://freegpt.one/",
+        "description": "无需API Key，响应速度快。"
+      },
+      {
+        "name": "51buygpt",
+        "link": "https://51buygpt.com",
+        "description": "无需API Key"
+      },
       {
         "name": "周报生成器",
         "link": "https://weeklyreport.avemaria.fun/",
