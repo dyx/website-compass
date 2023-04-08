@@ -13,6 +13,11 @@
         "description": "热搜聚合"
       },
       {
+        "name": "湾区日报",
+        "link": "https://www.wanqu.co/",
+        "description": "关注创业，互联网，技术。每天推送几篇优质英文文章，坚持每天阅读，每天进步一点点。在 AI 横行的年代，更需要人类的手动推荐，手动点评；人类好的品味不会被 AI 淘汰的。"
+      },
+      {
         "name": "IT之家",
         "link": "https://www.ithome.com/",
         "description": "快速播报科技行业新闻头条快讯和手机数码产品评测"
@@ -85,6 +90,76 @@
     ]
   },
   {
+    "categoryName": "AI平台",
+    "websites": [
+      {
+        "name": "ChatGPT",
+        "link": "https://chat.openai.com/chat",
+        "description": "OpenAI出品的人工智能聊天机器人"
+      },
+      {
+        "name": "Bard",
+        "link": "https://bard.google.com/",
+        "description": "Google出品的人工智能聊天机器人"
+      },
+      {
+        "name": "文心一言",
+        "link": "https://yiyan.baidu.com/",
+        "description": "百度出品的人工智能聊天机器人平台"
+      },
+      {
+        "name": "Poe",
+        "link": "https://poe.com/",
+        "description": "聚合人工智能聊天机器人平台"
+      },
+      {
+        "name": "Midjourney",
+        "link": "https://www.midjourney.com/",
+        "description": "文本生成图片平台"
+      },
+      {
+        "name": "Firefly",
+        "link": "https://firefly.adobe.com/",
+        "description": "Adobe出品文本生成图片平台"
+      },
+      {
+        "name": "文心一格",
+        "link": "https://yige.baidu.com/",
+        "description": "百度出品文本生成图片平台"
+      },
+      {
+        "name": "ChatPDF",
+        "link": "https://www.chatpdf.com/",
+        "description": "与任何PDF聊天"
+      },
+      {
+        "name": "Awesome ChatGPT Prompts",
+        "link": "https://prompts.chat/",
+        "description": "与ChatGPT模型一起使用的提示示例集合。"
+      },
+      {
+        "name": "ChatGPT cheatsheet",
+        "link": "https://quickref.me/chatgpt",
+        "description": "来自世界各地的关于如何有效使用ChatGPT提示和技巧。"
+      },
+      {
+        "name": "Glass AI",
+        "link": "https://glass.health/ai",
+        "description": "医疗领域人工智能聊天机器人。"
+      },
+      {
+        "name": "gpt2go",
+        "link": "https://gpt2go.netlify.app/",
+        "description": "一个基于gpt-3.5-turbo模型API自建的ChatGPT网站，支持代码渲染，导出会话，高级参数配置等功能。"
+      },
+      {
+        "name": "freegpt",
+        "link": "https://freegpt.one/",
+        "description": "无需API Key，响应速度快。"
+      }
+    ]
+  },
+  {
     "categoryName": "个人博客",
     "websites": [
       {
@@ -140,46 +215,6 @@
     ]
   },
   {
-    "categoryName": "AI助手",
-    "websites": [
-      {
-        "name": "gpt2go",
-        "link": "https://gpt2go.netlify.app/",
-        "description": "一个基于gpt-3.5-turbo模型API自建的ChatGPT网站，支持代码渲染，导出会话，高级参数配置等功能。"
-      },
-      {
-        "name": "freegpt",
-        "link": "https://freegpt.one/",
-        "description": "无需API Key，响应速度快。"
-      },
-      {
-        "name": "51buygpt",
-        "link": "https://51buygpt.com",
-        "description": "无需API Key"
-      },
-      {
-        "name": "周报生成器",
-        "link": "https://weeklyreport.avemaria.fun/",
-        "description": "简单描述工作内容，帮你生成完整周报"
-      },
-      {
-        "name": "Email Generator",
-        "link": "https://email-helper.vercel.app/",
-        "description": "只需要几秒就可生成商务电子邮件"
-      },
-      {
-        "name": "Teach Anything",
-        "link": "https://www.teach-anything.com/",
-        "description": "几秒钟内教你任何东西。"
-      },
-      {
-        "name": "Read Pilot",
-        "link": "https://readpilot.vercel.app/",
-        "description": "Read Pilot分析在线文章并为您生成问答卡。"
-      }
-    ]
-  },
-  {
     "categoryName": "工具",
     "websites": [
       {
@@ -206,6 +241,11 @@
         "name": "Carbon",
         "link": "https://carbon.now.sh/",
         "description": "代码截图美化"
+      },
+      {
+        "name": "Twitter Thread Reader",
+        "link": "https://twitter-thread.com/",
+        "description": "轻松阅读和分享Twitter线程！"
       }
     ]
   },
@@ -248,9 +288,14 @@
     "categoryName": "图片资源",
     "websites": [
       {
+        "name": "imgur",
+        "link": "https://imgur.com/",
+        "description": "免费图床"
+      },
+      {
         "name": "阿里巴巴矢量图标库",
         "link": "https://www.iconfont.cn/",
-        "description": ""
+        "description": "免费图标库"
       }
     ]
   },
@@ -260,6 +305,36 @@
       {
         "name": "低端影视",
         "link": "https://ddys.art/",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "categoryName": "有趣站点",
+    "websites": [
+      {
+        "name": "Guillaume Kurkdjian",
+        "link": "https://guillaumekurkdjian.com/",
+        "description": "一个很棒的动画设计分享网站"
+      },
+      {
+        "name": "中国历史终极知识测试",
+        "link": "https://www.arealme.com/chinese-history-ultimate-quiz/cn/",
+        "description": "终极历史知识测试由40道测试题构成，完成测试之后，受测者将得到一个雷达图形式的结果报告。它主要反馈被试者的中国历史综合阅历，并根据朝代细分为十大板块。"
+      },
+      {
+        "name": "Townscaper",
+        "link": "https://oskarstalberg.com/Townscaper/",
+        "description": "一个随机生成3D城堡的网站（首次加载有些慢，需要耐心等待）"
+      },
+      {
+        "name": "快速涂鸦",
+        "link": "https://quickdraw.withgoogle.com/",
+        "description": "你画AI猜"
+      },
+      {
+        "name": "区块链黑暗森林自救手册",
+        "link": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md",
         "description": ""
       }
     ]
