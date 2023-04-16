@@ -108,6 +108,16 @@
         "description": "百度出品的人工智能聊天机器人平台"
       },
       {
+        "name": "通义千问",
+        "link": "https://tongyi.aliyun.com/",
+        "description": "阿里巴巴出品的人工智能聊天机器人平台"
+      },
+      {
+        "name": "商量",
+        "link": "https://chat.sensetime.com/",
+        "description": "商汤科技出品的人工智能聊天机器人平台"
+      },
+      {
         "name": "Poe",
         "link": "https://poe.com/",
         "description": "聚合人工智能聊天机器人平台"
@@ -321,6 +331,11 @@
         "name": "中国历史终极知识测试",
         "link": "https://www.arealme.com/chinese-history-ultimate-quiz/cn/",
         "description": "终极历史知识测试由40道测试题构成，完成测试之后，受测者将得到一个雷达图形式的结果报告。它主要反馈被试者的中国历史综合阅历，并根据朝代细分为十大板块。"
+      },
+      {
+        "name": "MyOctocat",
+        "link": "https://myoctocat.com/",
+        "description": "GitHub的章鱼猫头像制作器"
       },
       {
         "name": "Townscaper",
