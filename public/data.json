@@ -13,9 +13,9 @@
         "description": "热搜聚合"
       },
       {
-        "name": "湾区日报",
-        "link": "https://www.wanqu.co/",
-        "description": "关注创业，互联网，技术。每天推送几篇优质英文文章，坚持每天阅读，每天进步一点点。在 AI 横行的年代，更需要人类的手动推荐，手动点评；人类好的品味不会被 AI 淘汰的。"
+        "name": "机器之心",
+        "link": "https://www.jiqizhixin.com/",
+        "description": "人工智能优质文章"
       },
       {
         "name": "IT之家",
@@ -31,6 +31,11 @@
         "name": "金色财经快讯",
         "link": "https://www.jinse.com/lives",
         "description": "区块链最新消息"
+      },
+      {
+        "name": "湾区日报",
+        "link": "https://www.wanqu.co/",
+        "description": "关注创业，互联网，技术。每天推送几篇优质英文文章，坚持每天阅读，每天进步一点点。在 AI 横行的年代，更需要人类的手动推荐，手动点评；人类好的品味不会被 AI 淘汰的。"
       },
       {
         "name": "不死鸟",
@@ -58,9 +63,19 @@
         "description": "新闻提交社区"
       },
       {
+        "name": "GitHub Trending",
+        "link": "https://github.com/trending",
+        "description": "See what the GitHub community is most excited about today."
+      },
+      {
         "name": "过早客",
         "link": "https://www.guozaoke.com/",
         "description": "源自武汉的高端社交网络，这里有关于创业、创意、IT、金融等最热话题的交流，也有招聘问答、活动交友等最新资讯的发布"
+      },
+      {
+        "name": "NGA玩家社区",
+        "link": "https://bbs.nga.cn/",
+        "description": "NGA是国内专业的游戏玩家社区,魔兽世界,英雄联盟,炉石传说,风暴英雄,暗黑破坏神3(D3)游戏攻略讨论,以及其他热门游戏玩家社区"
       },
       {
         "name": "0xFFFF",
@@ -118,6 +133,21 @@
         "description": "商汤科技出品的人工智能聊天机器人平台"
       },
       {
+        "name": "讯飞星火",
+        "link": "https://xinghuo.xfyun.cn/",
+        "description": "科大讯飞出品的人工智能聊天机器人平台"
+      },
+      {
+        "name": "360智脑",
+        "link": "https://ai.360.cn/",
+        "description": "360出品的人工智能聊天机器人平台"
+      },
+      {
+        "name": "HuggingFace Chat",
+        "link": "https://huggingface.co/chat/",
+        "description": "HuggingFace出品的人工智能聊天机器人平台"
+      },
+      {
         "name": "Poe",
         "link": "https://poe.com/",
         "description": "聚合人工智能聊天机器人平台"
@@ -136,6 +166,11 @@
         "name": "文心一格",
         "link": "https://yige.baidu.com/",
         "description": "百度出品文本生成图片平台"
+      },
+      {
+        "name": "火山写作",
+        "link": "https://www.writingo.net/",
+        "description": "火山写作，让英语写作更简单"
       },
       {
         "name": "ChatPDF",
@@ -336,6 +371,11 @@
         "name": "MyOctocat",
         "link": "https://myoctocat.com/",
         "description": "GitHub的章鱼猫头像制作器"
+      },
+      {
+        "name": "Skyline",
+        "link": "https://skyline.github.com/",
+        "description": "查看GitHub贡献图的3D模型"
       },
       {
         "name": "Townscaper",
