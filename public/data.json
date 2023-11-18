@@ -23,6 +23,11 @@
         "description": "快速播报科技行业新闻头条快讯和手机数码产品评测"
       },
       {
+        "name": "快科技",
+        "link": "https://www.mydrivers.com/",
+        "description": "快科技(原驱动之家)为您提供第一手的科技新闻资讯、产品评测、驱动下载等服务。老牌的驱动下载频道通过方便快捷的驱动分类、搜索服务，助您快速找到所需的驱动程序。"
+      },
+      {
         "name": "金十数据",
         "link": "https://www.jin10.com/",
         "description": "财经资讯"
@@ -41,11 +46,6 @@
         "name": "不死鸟",
         "link": "https://iui.su/",
         "description": "分享为王"
-      },
-      {
-        "name": "Good News",
-        "link": "https://good.news/",
-        "description": "时事新闻"
       }
     ]
   },
@@ -93,14 +93,34 @@
         "description": "有深度的社交问答网站"
       },
       {
-        "name": "天涯论坛",
-        "link": "https://bbs.tianya.cn/",
-        "description": "全球华人网上家园"
-      },
-      {
         "name": "一亩三分地",
         "link": "https://www.1point3acres.com/bbs/",
         "description": "留学生活论坛"
+      },
+      {
+        "name": "iFixit",
+        "link": "https://zh.ifixit.com/",
+        "description": "大家齐心协力写出的包罗万象的免费修理指南。"
+      },
+      {
+        "name": "小众软件",
+        "link": "https://meta.appinn.net/",
+        "description": "你可以在这里提问（寻找应用、软件，各种奇葩功能），也可以分享科技、数码类的任何内容。灌水也是没有问题的。也欢迎先阅读常见问题解答。"
+      },
+      {
+        "name": "视觉艺术百科全书",
+        "link": "https://www.wikiart.org/zh",
+        "description": "可以根据多种维度搜索和查看世界名画"
+      }
+    ]
+  },
+  {
+    "categoryName": "调研报告",
+    "websites": [
+      {
+        "name": "StackOverflow年度开发者调查",
+        "link": "https://insights.stackoverflow.com/survey",
+        "description": "关于开发者如何学习和升级、他们正在使用哪些工具以及他们想要哪些工具的年度调查"
       }
     ]
   },
@@ -116,6 +136,11 @@
         "name": "Bard",
         "link": "https://bard.google.com/",
         "description": "Google出品的人工智能聊天机器人"
+      },
+      {
+        "name": "Claude",
+        "link": "https://claude.ai/",
+        "description": "Anthropic出品的人工智能聊天机器人"
       },
       {
         "name": "文心一言",
@@ -141,6 +166,16 @@
         "name": "360智脑",
         "link": "https://ai.360.cn/",
         "description": "360出品的人工智能聊天机器人平台"
+      },
+      {
+        "name": "豆包",
+        "link": "https://www.doubao.com/",
+        "description": "抖音出品的人工智能聊天机器人平台"
+      },
+      {
+        "name": "序列猴子奇妙文",
+        "link": "https://write.mobvoi.com/",
+        "description": "出门问问出品的人工智能聊天机器人平台"
       },
       {
         "name": "HuggingFace Chat",
@@ -256,6 +291,16 @@
         "name": "Vitalik Buterin",
         "link": "https://vitalik.eth.limo/",
         "description": "2011年与Mihai Alisie、Matthew N. Wright、Vladimir Marchenko、Vicente S共同创立了《比特币杂志》。2013年发表了《以太坊白皮书》。2014年与加文·伍德共同推出了以太坊。"
+      },
+      {
+        "name": "Stammy",
+        "link": "https://paulstamatiou.com/",
+        "description": "Rewind.AI联合创始人，曾经在Twitter担任了9年的产品设计师"
+      },
+      {
+        "name": "Tobias Ahlin Bjerrome",
+        "link": "https://tobiasahlin.com/",
+        "description": "GitHub的设计工程师，曾经在Spotify和Minecraft制作东西"
       }
     ]
   },
@@ -291,6 +336,11 @@
         "name": "Twitter Thread Reader",
         "link": "https://twitter-thread.com/",
         "description": "轻松阅读和分享Twitter线程！"
+      },
+      {
+        "name": "习题打印生成器",
+        "link": "https://www.dayin.page/",
+        "description": "强大、易用的一键生成数学题、描红字帖及各种空白模板。"
       }
     ]
   },
@@ -368,6 +418,11 @@
         "description": "终极历史知识测试由40道测试题构成，完成测试之后，受测者将得到一个雷达图形式的结果报告。它主要反馈被试者的中国历史综合阅历，并根据朝代细分为十大板块。"
       },
       {
+        "name": "GitHub Next",
+        "link": "https://githubnext.com/",
+        "description": "GitHub Next研究软件开发的未来"
+      },
+      {
         "name": "MyOctocat",
         "link": "https://myoctocat.com/",
         "description": "GitHub的章鱼猫头像制作器"
@@ -386,6 +441,16 @@
         "name": "快速涂鸦",
         "link": "https://quickdraw.withgoogle.com/",
         "description": "你画AI猜"
+      },
+      {
+        "name": "Poem Postcards",
+        "link": "https://artsandculture.google.com/experiment/poem-postcards/ZgG5_uTbBgTpIQ?hl=zh-CN",
+        "description": "AI生成诗歌明信片"
+      },
+      {
+        "name": "Transformer的诞生，让生成式 AI 成为可能",
+        "link": "https://baoyu.io/pages/ft/generative-ai",
+        "description": "交互式讲解Transformer技术"
       },
       {
         "name": "区块链黑暗森林自救手册",
